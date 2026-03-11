@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tlduckdat) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Huỳnh Đức Đạt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:HDDat1510@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tlduckdat) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HDDat1510) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:HDDat1510@gmail.com) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TLDuckDat&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TLDuckDat&theme=shadow_blue&hide_border=false)<br/>
